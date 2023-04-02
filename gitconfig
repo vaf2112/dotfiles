@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vasco.freitasdacosta@gmail.com
+	name = vasco costa
